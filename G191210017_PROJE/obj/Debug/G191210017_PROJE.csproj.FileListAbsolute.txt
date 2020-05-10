@@ -1,0 +1,9 @@
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\bin\Debug\G191210017_PROJE.exe.config
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\bin\Debug\G191210017_PROJE.exe
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\bin\Debug\G191210017_PROJE.pdb
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\obj\Debug\G191210017_PROJE.csprojAssemblyReference.cache
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\obj\Debug\G191210017_PROJE.Form1.resources
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\obj\Debug\G191210017_PROJE.Properties.Resources.resources
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\obj\Debug\G191210017_PROJE.csproj.GenerateResource.cache
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\obj\Debug\G191210017_PROJE.exe
+C:\Users\akyol61\source\repos\G191210017_PROJE\G191210017_PROJE\obj\Debug\G191210017_PROJE.pdb
