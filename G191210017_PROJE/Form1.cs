@@ -369,29 +369,5 @@ namespace G191210017_PROJE
                 saniye += 3;//atık kutusu boşaltıldığı için süreye 3 saniye ekle
             }
         }
-        private void button8_MouseClick(object sender, MouseEventArgs e)
-        {
-
-        }
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void label3_Click(object sender, EventArgs e)
-        {
-
-        }
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void listBox6_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }
